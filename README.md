@@ -24,3 +24,7 @@ It includes PCs, Switches, and Routers with proper IP addressing and connectivit
 ## 🔹 Author
 Rajib Das
 
+## 🔹 Learning Outcome
+- Understanding of basic LAN design
+- Hands-on practice with Cisco Packet Tracer
+- Improved networking fundamentals
